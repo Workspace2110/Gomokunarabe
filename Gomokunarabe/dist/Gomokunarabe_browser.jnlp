@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Gomokunarabe_browser.jnlp">
+  <information>
+    <title>Gomokunarabe</title>
+    <vendor>Worker2110</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Gomokunarabe.jar" size="4002" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="gomokunarabe.Gomokunarabe"  name="Gomokunarabe" >
+  </applet-desc>
+  <update check="always"/>
+</jnlp>
