@@ -1,3 +1,3 @@
 # Gomokunarabe
-- Game：五目並べ -
-Coding with java
+- Game：五目並べ
+- Coding with java
